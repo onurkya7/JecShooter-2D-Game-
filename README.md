@@ -3,6 +3,7 @@ JecShooter is a 2d strategy and entertainment game where our character Jec kills
 Game Demo: https://www.youtube.com/watch?v=ImXHqArL7PM
 
 The game has been designed with a game dynamic where you pass the levels by killing the enemies with a gun or grenade for entertainment purposes.
+
 ![jec1](https://user-images.githubusercontent.com/100594545/215271501-6b641e15-812c-4ee6-9271-909ad86be238.png)
 
 ![jec2](https://user-images.githubusercontent.com/100594545/215271503-11e6eb97-6e05-4ba9-83a0-f9605a5ae2b2.png)
