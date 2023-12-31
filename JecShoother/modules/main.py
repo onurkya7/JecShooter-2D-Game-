@@ -5,10 +5,8 @@ import csv
 import button
 from pygame import mixer
 
-
 pygame.init()
 mixer.init()
-
 
 SCREEN_WIDTH = 1920
 SCREEN_HEIGHT = 1080
@@ -137,8 +135,6 @@ def reset_level():
         data.append(r)
 
     return data
-
-
 
 
 class Soldier(pygame.sprite.Sprite):

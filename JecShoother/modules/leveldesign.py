@@ -1,10 +1,6 @@
 import pygame
-
 import csv
-
 import button
-
-import pickle
 
 pygame.init()
 
