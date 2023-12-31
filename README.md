@@ -1,8 +1,25 @@
 # JecShooter-2D-Game
 JecShooter is a 2d strategy and entertainment game where our character Jec kills the enemies by using his intelligence and gun power. 
+
 Game Demo: https://www.youtube.com/watch?v=ImXHqArL7PM
 
 The game has been designed with a game dynamic where you pass the levels by killing the enemies with a gun or grenade for entertainment purposes.
+
+## Setup Environment
+
+```bash
+# Make sure your PIP is up to date
+pip install -U pip wheel setuptools
+
+# Install required dependencies
+pip install -r requirements.txt
+```
+
+## Application
+
+To start the game, just run the file called [main.py](main.py). You can also do level design.
+
+- Images of the game:
 
 ![jec1](https://user-images.githubusercontent.com/100594545/215271501-6b641e15-812c-4ee6-9271-909ad86be238.png)
 
