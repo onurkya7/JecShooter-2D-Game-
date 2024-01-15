@@ -31,3 +31,8 @@ To start the game, just run the file called [main.py](main.py). You can also do 
 
 ![jec5](https://user-images.githubusercontent.com/100594545/215271509-aa65e344-c4d6-42f9-b3e3-d09073e3570f.png)
 
+
+## License
+
+Our project is licensed under the [MIT License](LICENSE).
+
